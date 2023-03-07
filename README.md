@@ -1,3 +1,3 @@
 # test-repo-public
 
-Test
+This repo is used for testing purposes
